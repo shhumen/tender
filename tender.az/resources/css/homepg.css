@@ -217,6 +217,17 @@ nav {
     color: #fff;
 }
 
+#header-bottom .filter {
+    position: absolute;
+    z-index: 4546447;
+    right: 12%;
+    top: 5px;
+}
+
+#header-bottom .filter::after {
+    display: none;
+}
+
 
 /* HEADER BOTTOM END */
 
